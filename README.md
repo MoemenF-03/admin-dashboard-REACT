@@ -1,5 +1,9 @@
 # Cosmos Delivery - Admin Dashboard
-
+![Status](https://img.shields.io/badge/Status-Client%20Project-brightgreen)
+![React](https://img.shields.io/badge/React-18.x-blue)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-3.x-38bdf8)
+![Recharts](https://img.shields.io/badge/Recharts-2.x-8884d8)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-10.x-ff69b4)
 ## 🚀 Overview
 
 A modern and interactive admin dashboard built for **Cosmos Delivery** to streamline logistics, analytics, and operations management.
